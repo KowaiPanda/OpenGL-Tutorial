@@ -1,1 +1,1 @@
-# NewRepo
+Exploring OpenGL library
